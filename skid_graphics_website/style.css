@@ -1,0 +1,32 @@
+h3{
+    font-family: satoshi;
+    color: rgb(52, 119, 255);
+    font-weight: 750;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+h5{
+    text-align: center;
+    padding-top: 0px;
+    font-size: 10px;
+    font-family: satoshi;
+    margin-top: -18px;
+    letter-spacing: 3px;
+}
+h5:hover{
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+
+}
+
+h3:hover{
+    cursor: pointer;
+    color: rgb(96, 129, 249);
+    transition: 0.5s;
+    
+}
+
+
